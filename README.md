@@ -31,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
