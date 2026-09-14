@@ -38,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0577-employee-bonus/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0836-rectangle-overlap/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
