@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0577-employee-bonus/) | Easy |
+| [0585-investments-in-2016](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0585-investments-in-2016/) | Medium |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 ## Math
