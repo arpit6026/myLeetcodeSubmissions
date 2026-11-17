@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0125-valid-palindrome/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
