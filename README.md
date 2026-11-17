@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0283-move-zeroes/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -72,4 +73,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
