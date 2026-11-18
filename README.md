@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0283-move-zeroes/) | Easy |
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0283-move-zeroes/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/arpit6026/myLeetcodeSubmissions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
